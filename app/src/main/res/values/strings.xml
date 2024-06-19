@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DAM_UC3_Mondragon_Alberto</string>
+    <string name="txtCorreo" />
+    <string name="txtcorreoelec">Correo Electrónico</string>
+    <string name="txtContra">Contraseña</string>
+    <string name="txtfieldCorreo" />
+    <string name="txtfieldPass" />
+    <string name="btnEntrar">Entrar</string>
+    <string name="cboxSesion">No cerrar Sesión</string>
+    <string name="txtOlvidrpass" />
+    <string name="txtOlviPs">¿Has olvidado tu contraseña?</string>
+    <string name="txtRegistraar">Registrate</string>
+    <string name="viewNom">Nombre</string>
+    <string name="viewAp">Apellidos</string>
+    <string name="viewCorreo">Correo Electrónico</string>
+    <string name="viewPassNew">Contraseña Nueva</string>
+    <string name="view">Sexo</string>
+    <string name="viewFechNac">Fecha de Nacimiento</string>
+    <string name="txtNom" />
+    <string name="txtAp" />
+    <string name="ElecHom">Hombre</string>
+    <string name="elecMujer">Mujer</string>
+    <string name="viewInfo">¿Por qué tengo que dar esta información?</string>
+    <string name="btnRegistrate">Registrate</string>
+</resources>
